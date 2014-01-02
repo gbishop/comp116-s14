@@ -6,7 +6,7 @@
   xml:lang="en"
    >
   <title type="text">${site_name}</title>
-  <subtitle type="text">Blog of Peter Parente</subtitle>
+  <subtitle type="text">Comp 116 Spring 2014</subtitle>
 
   <updated>${datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")}</updated>
   <generator>custom</generator>

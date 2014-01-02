@@ -10,7 +10,7 @@
   <channel>
     <title>${site_name}</title>
     <link>${site_domain}</link>
-    <description>Blog of Peter Parente</description>
+    <description>Comp 116 Spring 2014</description>
     <pubDate>${datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")}</pubDate>
     <generator>custom</generator>
     <sy:updatePeriod>hourly</sy:updatePeriod>

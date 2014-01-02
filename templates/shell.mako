@@ -40,10 +40,7 @@
         <div class="col-sm-4" id="contact">
           <h3>Contact</h3>
           <div>
-            <i class="fa fa-envelope-o"></i> <a title="Email address" href="mailto:parente@cs.unc.edu"> parente@cs.unc.edu</a><br/>
-            <i class="fa fa-github"></i> <a title="GitHub account" href="http://github.com/parente">github.com/parente</a><br/>
-            <i class="fa fa-twitter"></i> <a title="Twitter account" href="http://twitter.com/parente">twitter.com/parente</a><br/>
-            <i class="fa fa-google-plus"></i> <a title="Google Plus account" href="https://plus.google.com/108324270881375083602/">google.com/+PeterParente</a>
+            <i class="fa fa-envelope-o"></i> <a title="Email address" href="mailto:gb@cs.unc.edu"> gb@cs.unc.edu</a><br/>
           </div>
         </div>
 
@@ -67,7 +64,7 @@
 
       <!-- Footer -->
       <footer id="siteFooter" class="footerSection">
-        <p>Copyright &copy; 2008, 2013 Peter Parente. All rights reserved.</p>
+        <p>Copyright &copy; 2014 Gary Bishop. All rights reserved.</p>
       </footer>
     </div>
   </body>

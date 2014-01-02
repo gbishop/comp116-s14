@@ -7,10 +7,10 @@ import glob
 import shutil
 import os
 
-site_author = "Peter Parente"
-site_name = "Parente's Mindtrove"
+site_author = "Gary Bishop"
+site_name = "Comp 116 Spring 2014"
 site_root_href = os.environ.get('SITE_ROOT', '')
-site_domain = os.environ.get('SITE_DOMAIN', 'http://mindtrove.info')
+site_domain = os.environ.get('SITE_DOMAIN', 'https://www.cs.unc.edu/Courses/comp116-s14/')
 
 static_dir = 'static'
 templates_dir = 'templates'
